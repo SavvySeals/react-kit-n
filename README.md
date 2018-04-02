@@ -29,11 +29,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ## Usage
 
-> The Interface is divided into 4 main sections
-1. [Components](#Components)
-2. [App Tree](#App Tree)
-3. [Store Schema](#Store Schema)
-4. [Actions](#Actions)
+The Interface is divided into 4 main sections
+  1. Components
+  2. App Tree
+  3. Store Schema
+  4. Actions
 
 You can toggle any of these views in the top right by clicking the section name.
 
